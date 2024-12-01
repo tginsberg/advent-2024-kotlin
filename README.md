@@ -26,5 +26,8 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 * 2023 - [GitHub](https://github.com/tginsberg/advent-2023-kotlin/)
   and [Blog Posts](https://todd.ginsberg.com/post/advent-of-code/2023/)
 
+| Day | Title              |                                  Blog Link                                  |                                                   Solution Code                                                    |                Puzzle Text                |
+|-----|:-------------------|:---------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
+| 1   | Historian Hysteria | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day1/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day01.kt) | [AoC](http://adventofcode.com/2024/day/1) |
 
 Copyright &copy; 2024 by Todd Ginsberg.
