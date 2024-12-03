@@ -30,5 +30,6 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 |-----|:-------------------|:---------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
 | 1   | Historian Hysteria | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day1/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day01.kt) | [AoC](http://adventofcode.com/2024/day/1) |
 | 2   | Red-Nosed Reports  | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day2/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day02.kt) | [AoC](http://adventofcode.com/2024/day/2) |
+| 3   | Mull It Over       | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day3/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day03.kt) | [AoC](http://adventofcode.com/2024/day/3) |
 
 Copyright &copy; 2024 by Todd Ginsberg.
