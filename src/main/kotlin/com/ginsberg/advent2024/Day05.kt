@@ -41,16 +41,17 @@ class Day05(input: List<String>) {
 
     fun solvePart1(): Int =
         updates
-            .filter { isFormattedCorrectly(it) }
-            .sumOf { it.midpoint().toInt() }
+            .map { formatCorrectly(it) }
+            .filter { it.first == it.second }
+            .sumOf { it.second.midpoint().toInt() }
 
     fun solvePart2(): Int =
         updates
-            .filterNot { isFormattedCorrectly(it) }
-            .map { it.sortedWith(comparator) }
-            .sumOf { it.midpoint().toInt() }
+            .map { formatCorrectly(it) }
+            .filterNot { it.first == it.second }
+            .sumOf { it.second.midpoint().toInt() }
 
-    private fun isFormattedCorrectly(update: List<String>): Boolean =
-        update == update.sortedWith(comparator)
+    private fun formatCorrectly(update: List<String>): Pair<List<String>, List<String>> =
+        update to update.sortedWith(comparator)
 }
 
