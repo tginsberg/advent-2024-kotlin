@@ -34,5 +34,6 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 | 4   | Ceres Search       | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day4/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day04.kt) | [AoC](http://adventofcode.com/2024/day/4) |
 | 5   | Print Queue        | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day5/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day05.kt) | [AoC](http://adventofcode.com/2024/day/5) |
 | 6   | Guard Gallivant    | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day6/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day06.kt) | [AoC](http://adventofcode.com/2024/day/6) |
+| 7   | Bridge Repair      | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day7/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day07.kt) | [AoC](http://adventofcode.com/2024/day/7) |
 
 Copyright &copy; 2024 by Todd Ginsberg.
