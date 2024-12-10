@@ -17,7 +17,6 @@
 package com.ginsberg.advent2024
 
 import com.ginsberg.advent2024.Resources.resourceAsListOfString
-import com.ginsberg.advent2024.Resources.resourceAsText
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.DisplayName
 import org.junit.jupiter.api.Nested
