@@ -19,7 +19,7 @@ package com.ginsberg.advent2024
 import java.util.PriorityQueue
 
 /**
- * Advent of Code 2024, Day 9 -
+ * Advent of Code 2024, Day 9 - Disk Fragmenter
  * Problem Description: http://adventofcode.com/2024/day/9
  * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/9/
  */
