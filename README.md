@@ -36,5 +36,6 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 | 6   | Guard Gallivant       | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day6/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day06.kt) | [AoC](http://adventofcode.com/2024/day/6) |
 | 7   | Bridge Repair         | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day7/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day07.kt) | [AoC](http://adventofcode.com/2024/day/7) |
 | 8   | Resonant Collinearity | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day8/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day08.kt) | [AoC](http://adventofcode.com/2024/day/8) |
+| 9   | Disk Fragmenter       | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day9/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day09.kt) | [AoC](http://adventofcode.com/2024/day/9) |
 
 Copyright &copy; 2024 by Todd Ginsberg.
