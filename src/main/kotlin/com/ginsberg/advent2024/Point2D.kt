@@ -18,6 +18,14 @@ package com.ginsberg.advent2024
 
 data class Point2D(val x: Int, val y: Int) {
 
+    fun cardinalNeighbors(): Set<Point2D> =
+        setOf(
+            this + NORTH,
+            this + EAST,
+            this + SOUTH,
+            this + WEST
+        )
+
     operator fun plus(other: Point2D): Point2D =
         Point2D(x + other.x, y + other.y)
 
