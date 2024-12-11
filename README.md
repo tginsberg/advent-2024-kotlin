@@ -38,5 +38,6 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 | 8   | Resonant Collinearity | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day8/)  | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day08.kt) | [AoC](http://adventofcode.com/2024/day/8)  |
 | 9   | Disk Fragmenter       | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day9/)  | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day09.kt) | [AoC](http://adventofcode.com/2024/day/9)  |
 | 10  | Hoof It               | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day10/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day10.kt) | [AoC](http://adventofcode.com/2024/day/10) |
+| 11  | Plutonian Pebbles     | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day11/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day11.kt) | [AoC](http://adventofcode.com/2024/day/11) |
 
 Copyright &copy; 2024 by Todd Ginsberg.
