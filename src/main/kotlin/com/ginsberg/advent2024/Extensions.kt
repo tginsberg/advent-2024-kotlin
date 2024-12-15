@@ -18,3 +18,10 @@ package com.ginsberg.advent2024
 
 fun <T> List<T>.midpoint(): T =
     this[lastIndex / 2]
+
+operator fun List<CharArray>.get(at: Point2D): Char =
+    this[at.y][at.x]
+
+operator fun List<CharArray>.set(at: Point2D, value: Char) {
+    this[at.y][at.x] = value
+}

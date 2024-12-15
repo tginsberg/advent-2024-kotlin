@@ -60,10 +60,6 @@ class Day06(input: List<String>) {
     private operator fun List<CharArray>.get(at: Point2D): Char? =
         getOrNull(at.y)?.getOrNull(at.x)
 
-    private operator fun List<CharArray>.set(at: Point2D, c: Char) {
-        this[at.y][at.x] = c
-    }
-
     private fun Point2D.turn(): Point2D =
         when (this) {
             Point2D.NORTH -> Point2D.EAST

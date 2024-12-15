@@ -42,5 +42,6 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 | 12  | Garden Groups         | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day12/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day12.kt) | [AoC](http://adventofcode.com/2024/day/12) |
 | 13  | Claw Contraption      | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day13/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day13.kt) | [AoC](http://adventofcode.com/2024/day/13) |
 | 14  | Restroom Redoubt      | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day14/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day14.kt) | [AoC](http://adventofcode.com/2024/day/14) |
+| 15  | Warehouse Woes        | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day15/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day15.kt) | [AoC](http://adventofcode.com/2024/day/15) |
 
 Copyright &copy; 2024 by Todd Ginsberg.
