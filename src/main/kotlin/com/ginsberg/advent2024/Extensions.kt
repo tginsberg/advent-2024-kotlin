@@ -25,3 +25,30 @@ operator fun List<CharArray>.get(at: Point2D): Char =
 operator fun List<CharArray>.set(at: Point2D, value: Char) {
     this[at.y][at.x] = value
 }
+
+fun <T> List<T>.binarySearchFirst(fn: (T) -> Boolean): T =
+    binarySearchFirstOrNull(fn) ?:
+        throw IllegalStateException("No elements match predicate")
+
+fun <T> List<T>.binarySearchFirstOrNull(fn: (T) -> Boolean): T? =
+    binarySearchIndexOfFirstOrNull(fn)?.let { get(it) }
+
+fun <T> List<T>.binarySearchIndexOfFirst(fn: (T) -> Boolean): Int =
+    binarySearchIndexOfFirstOrNull(fn) ?:
+        throw IllegalStateException("No elements match predicate")
+
+fun <T> List<T>.binarySearchIndexOfFirstOrNull(fn: (T) -> Boolean): Int? {
+    var low = 0
+    var high = lastIndex
+    var firstFind: Int? = null
+    while (low <= high) {
+        val mid = (low + high) shr 1
+        if (fn(get(mid))) {
+            firstFind = mid
+            high = mid - 1
+        } else {
+            low = mid + 1
+        }
+    }
+    return firstFind
+}

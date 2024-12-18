@@ -39,9 +39,15 @@ data class Point2D(val x: Int, val y: Int) {
         Point2D(x * times, y * times)
 
     companion object {
+        val ORIGIN = Point2D(0, 0)
         val NORTH = Point2D(0, -1)
         val EAST = Point2D(1, 0)
         val SOUTH = Point2D(0, 1)
         val WEST = Point2D(-1, 0)
+
+        fun of(input: String): Point2D =
+            input.split(",").let {
+                Point2D(it.first().toInt(), it.last().toInt())
+            }
     }
 }

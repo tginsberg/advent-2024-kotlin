@@ -45,5 +45,6 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 | 15  | Warehouse Woes         | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day15/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day15.kt) | [AoC](http://adventofcode.com/2024/day/15) |
 | 16  | Reindeer Maze          | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day16/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day16.kt) | [AoC](http://adventofcode.com/2024/day/16) |
 | 17  | Chronospatial Computer | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day17/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day17.kt) | [AoC](http://adventofcode.com/2024/day/17) |
+| 18  | RAM Run                | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day18/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day18.kt) | [AoC](http://adventofcode.com/2024/day/18) |
 
 Copyright &copy; 2024 by Todd Ginsberg.
