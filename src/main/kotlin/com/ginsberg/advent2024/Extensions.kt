@@ -26,6 +26,13 @@ operator fun List<CharArray>.set(at: Point2D, value: Char) {
     this[at.y][at.x] = value
 }
 
+fun List<String>.findSingle(target: Char): Point2D =
+    flatMapIndexed { y, row ->
+        row.mapIndexedNotNull { x, c ->
+            if (c == target) Point2D(x, y) else null
+        }
+    }.first()
+
 fun <T> List<T>.binarySearchFirst(fn: (T) -> Boolean): T =
     binarySearchFirstOrNull(fn) ?:
         throw IllegalStateException("No elements match predicate")

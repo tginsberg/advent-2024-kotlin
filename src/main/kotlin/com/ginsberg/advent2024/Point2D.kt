@@ -16,6 +16,8 @@
 
 package com.ginsberg.advent2024
 
+import kotlin.math.absoluteValue
+
 data class Point2D(val x: Int, val y: Int) {
 
     fun cardinalNeighbors(): Set<Point2D> =
@@ -25,6 +27,9 @@ data class Point2D(val x: Int, val y: Int) {
             this + SOUTH,
             this + WEST
         )
+
+    fun distanceTo(other: Point2D): Int =
+        (x - other.x).absoluteValue + (y - other.y).absoluteValue
 
     operator fun div(by: Int): Point2D =
         Point2D(x / by, y / by)
