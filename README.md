@@ -49,5 +49,6 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 | 19  | Linen Layout           | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day19/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day19.kt) | [AoC](http://adventofcode.com/2024/day/19) |
 | 20  | Race Condition         | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day20/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day20.kt) | [AoC](http://adventofcode.com/2024/day/20) |
 | 21  | Keypad Conundrum       | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day21/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day21.kt) | [AoC](http://adventofcode.com/2024/day/21) |
+| 22  | Monkey Market          | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day22/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day22.kt) | [AoC](http://adventofcode.com/2024/day/22) |
 
 Copyright &copy; 2024 by Todd Ginsberg.
