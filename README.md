@@ -51,5 +51,6 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 | 21  | Keypad Conundrum       | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day21/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day21.kt) | [AoC](http://adventofcode.com/2024/day/21) |
 | 22  | Monkey Market          | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day22/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day22.kt) | [AoC](http://adventofcode.com/2024/day/22) |
 | 23  | LAN Party              | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day23/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day23.kt) | [AoC](http://adventofcode.com/2024/day/23) |
+| 24  | Crossed Wires          | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day24/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day24.kt) | [AoC](http://adventofcode.com/2024/day/24) |
 
 Copyright &copy; 2024 by Todd Ginsberg.
