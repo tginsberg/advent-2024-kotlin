@@ -19,7 +19,7 @@ package com.ginsberg.advent2024
 /**
  * Advent of Code 2024, Day 20 - Race Condition
  * Problem Description: http://adventofcode.com/2024/day/20
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/20/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day20/
  */
 class Day20(track: List<String>) {
 

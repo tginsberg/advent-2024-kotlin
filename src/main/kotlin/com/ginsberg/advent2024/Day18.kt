@@ -19,7 +19,7 @@ package com.ginsberg.advent2024
 /**
  * Advent of Code 2024, Day 18 - RAM Run
  * Problem Description: http://adventofcode.com/2024/day/18
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/18/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day18/
  */
 class Day18(input: List<String>) {
 

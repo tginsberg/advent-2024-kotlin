@@ -21,7 +21,7 @@ import java.util.PriorityQueue
 /**
  * Advent of Code 2024, Day 9 - Disk Fragmenter
  * Problem Description: http://adventofcode.com/2024/day/9
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/9/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day9/
  */
 class Day09(input: String) {
 

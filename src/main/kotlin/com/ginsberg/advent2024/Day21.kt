@@ -22,7 +22,7 @@ import java.util.PriorityQueue
 /**
  * Advent of Code 2024, Day 21 - Keypad Conundrum
  * Problem Description: http://adventofcode.com/2024/day/21
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/21/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day21/
  */
 class Day21(private val codes: List<String>) {
 

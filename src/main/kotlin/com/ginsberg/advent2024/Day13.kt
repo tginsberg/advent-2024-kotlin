@@ -19,7 +19,7 @@ package com.ginsberg.advent2024
 /**
  * Advent of Code 2024, Day 13 - Claw Contraption
  * Problem Description: http://adventofcode.com/2024/day/13
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/13/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day13/
  *
  * I got help from [This reddit thread by /u/ThunderChaser](https://redd.it/1hd7irq)
  */

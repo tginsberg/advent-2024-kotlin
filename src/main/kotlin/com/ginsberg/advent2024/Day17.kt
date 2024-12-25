@@ -19,7 +19,7 @@ package com.ginsberg.advent2024
 /**
  * Advent of Code 2024, Day 17 - Chronospatial Computer
  * Problem Description: http://adventofcode.com/2024/day/17
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/17/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day17/
  */
 class Day17(input: List<String>) {
 

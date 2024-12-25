@@ -19,7 +19,7 @@ package com.ginsberg.advent2024
 /**
  * Advent of Code 2024, Day 12 - Garden Groups
  * Problem Description: http://adventofcode.com/2024/day/12
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/12/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day12/
  */
 class Day12(private val garden: List<String>) {
 

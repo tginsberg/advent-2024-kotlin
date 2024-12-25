@@ -19,7 +19,7 @@ package com.ginsberg.advent2024
 /**
  * Advent of Code 2024, Day 24 - Crossed Wires
  * Problem Description: http://adventofcode.com/2024/day/24
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/24/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day24/
  */
 class Day24(input: List<String>) {
 

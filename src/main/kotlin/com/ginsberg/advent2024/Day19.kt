@@ -19,7 +19,7 @@ package com.ginsberg.advent2024
 /**
  * Advent of Code 2024, Day 19 - Linen Layout
  * Problem Description: http://adventofcode.com/2024/day/19
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/19/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day19/
  */
 class Day19(input: List<String>) {
 

@@ -19,7 +19,7 @@ package com.ginsberg.advent2024
 /**
  * Advent of Code 2024, Day 22 - Monkey Market
  * Problem Description: http://adventofcode.com/2024/day/22
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/22/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day22/
  */
 class Day22(input: List<String>) {
 

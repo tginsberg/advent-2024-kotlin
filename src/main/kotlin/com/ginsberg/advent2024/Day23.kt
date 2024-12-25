@@ -19,7 +19,7 @@ package com.ginsberg.advent2024
 /**
  * Advent of Code 2024, Day 23 - LAN Party
  * Problem Description: http://adventofcode.com/2024/day/23
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/23/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day23/
  */
 class Day23(input: List<String>) {
 

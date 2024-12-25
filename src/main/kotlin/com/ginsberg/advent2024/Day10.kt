@@ -19,7 +19,7 @@ package com.ginsberg.advent2024
 /**
  * Advent of Code 2024, Day 10 - Hoof It
  * Problem Description: http://adventofcode.com/2024/day/10
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/10/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day10/
  */
 class Day10(input: List<String>) {
 

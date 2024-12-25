@@ -21,7 +21,7 @@ import java.io.File
 /**
  * Advent of Code 2024, Day 14 - Restroom Redoubt
  * Problem Description: http://adventofcode.com/2024/day/14
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/14/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day14/
  */
 class Day14(input: List<String>, private val area: Point2D = Point2D(101, 103)) {
 

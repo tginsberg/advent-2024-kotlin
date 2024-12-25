@@ -19,7 +19,7 @@ package com.ginsberg.advent2024
 /**
  * Advent of Code 2024, Day 15 - Warehouse Woes
  * Problem Description: http://adventofcode.com/2024/day/15
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/15/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day15/
  */
 class Day15(input: List<String>) {
 

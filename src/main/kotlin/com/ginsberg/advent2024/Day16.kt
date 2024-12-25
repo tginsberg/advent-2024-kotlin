@@ -21,7 +21,7 @@ import java.util.PriorityQueue
 /**
  * Advent of Code 2024, Day 16 - Reindeer Maze
  * Problem Description: http://adventofcode.com/2024/day/16
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/16/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day16/
  */
 class Day16(private val maze: List<String>) {
 

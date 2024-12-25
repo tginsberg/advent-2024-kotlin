@@ -19,7 +19,7 @@ package com.ginsberg.advent2024
 /**
  * Advent of Code 2024, Day 11 - Plutonian Pebbles
  * Problem Description: http://adventofcode.com/2024/day/11
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/11/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2024/day11/
  */
 class Day11(input: String) {
 
