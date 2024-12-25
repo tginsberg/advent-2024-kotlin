@@ -2,12 +2,8 @@
 
 [![license](https://img.shields.io/github/license/tginsberg/advent-2024-kotlin)]()
 
-This repo is my personal attempt at solving the [Advent of Code 2024](http://adventofcode.com/2024) set of problems with
-the Kotlin programming language.
-
-I will attempt to solve each puzzle (hopefully) on the day they are posted with a nice solution in 
-Kotlin, and to blog my solutions. However, given the enormous amount of time that takes, I will not promise day-of 
-solutions and blogs, instead aiming to be eventually consistent. 
+This repo contains my solutions to the  [Advent of Code 2024](http://adventofcode.com/2024) set of problems with
+the Kotlin programming language. Each solution is accompanied by blog post.
 
 I've been doing this for a few years; here are my past efforts, also in Kotlin:
 
@@ -52,5 +48,6 @@ I've been doing this for a few years; here are my past efforts, also in Kotlin:
 | 22  | Monkey Market          | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day22/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day22.kt) | [AoC](http://adventofcode.com/2024/day/22) |
 | 23  | LAN Party              | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day23/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day23.kt) | [AoC](http://adventofcode.com/2024/day/23) |
 | 24  | Crossed Wires          | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day24/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day24.kt) | [AoC](http://adventofcode.com/2024/day/24) |
+| 25  | Code Chronicle         | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2024/day25/) | [Code](https://github.com/tginsberg/advent-2024-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2024/Day25.kt) | [AoC](http://adventofcode.com/2024/day/25) |
 
 Copyright &copy; 2024 by Todd Ginsberg.
